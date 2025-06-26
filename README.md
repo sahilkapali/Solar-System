@@ -17,7 +17,9 @@ This is a **3D Solar System Simulation** written in **C++** using **OpenGL** and
 
 ## 🖼️ Screenshots
 
-
+![image alt](https://github.com/sahilkapali/Solar-System/blob/main/solar1.jpg?raw=true)
+![image alt](https://github.com/sahilkapali/Solar-System/blob/main/solar2.jpg?raw=true)
+![image alt](https://github.com/sahilkapali/Solar-System/blob/main/solar3.jpg?raw=true)
 
 ---
 
